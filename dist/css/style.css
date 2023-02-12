@@ -516,7 +516,7 @@ header .hero h2 {
   height: 100vh;
   align-items: center;
   display: flex;
-  background-image: url('/aca\ bejir.jpg');
+  background-image: url('/Img/aca.bejir.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   /* background-color: #f1faee; */
@@ -556,7 +556,7 @@ header .hero h2 {
   height: 100vh;
   display: flex;
   align-items: center;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.5)), url('/aca\ famous.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.5)), url('img/aca.famous.jpg');
   background-repeat: no-repeat;
   background-size: cover;
 }
