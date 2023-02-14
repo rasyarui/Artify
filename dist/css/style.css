@@ -321,7 +321,7 @@ form.sign-up-form{
 .card {
   position: relative;
   display: flex;
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 
 .img-title {
